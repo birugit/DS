@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jerseyjars/aopalliance-repackaged-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/hk2-api-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/hk2-locator-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/hk2-utils-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/javax.inject-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jersey-client.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jersey-common.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jersey-guava-2.13.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jersey-media-multipart-2.13.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/jersey-server.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/mimepull.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="jerseyjars/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
